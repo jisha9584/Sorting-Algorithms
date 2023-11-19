@@ -47,11 +47,3 @@ print(data)  # Output: [9, 6, 5, 5, 4, 3, 2, 1, 1]
 **Requirements**
 <br>
 Python 3.x
-
-<br>
-
-**Authors**
-<br>
-Nathan Gu
-<br>
-Blake Potvin
