@@ -29,6 +29,7 @@ This project presents a collection of sorting algorithms implemented in Python. 
 <br>
 To use these sorting algorithms, import the desired function and provide it with a list to sort. You can customize the order using the comparator function.
 <br>
+
 from sorting_project import selection_sort, quicksort
 <br>
 data = [3, 1, 4, 1, 5, 9, 2, 6, 5]
